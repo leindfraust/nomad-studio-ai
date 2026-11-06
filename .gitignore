@@ -1,0 +1,24 @@
+# Secrets and runtime state
+.env
+.venv/
+/jobs/
+/jobs
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Node / Vite
+node_modules/
+frontend/dist/
+frontend/node_modules/
+
+# Plan scratch (git-ignored by the superpowers workflow)
+.superpowers/
+
+# Editor / OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,51 @@
+{
+  "angles": [
+    {
+      "name": "When Plans Shift",
+      "target_emotion": "preparedness",
+      "hook": "Your gate changed. Your protection shouldn't.",
+      "concept": "A traveller watches a departure screen update in the dusk-lit hall, then calmly checks their phone. Cut to their holdall beside a glowing amber sign.",
+      "cta": "Travel protected with NomadGuard."
+    },
+    {
+      "name": "Built for the Unexpected",
+      "target_emotion": "confidence",
+      "hook": "The best travel plans leave room for chaos.",
+      "concept": "One traveller wheels their holdall through the blue glass entrance as signs reflect in the windows. A flight notification briefly appears on their phone; they keep moving.",
+      "cta": "Travel protected with NomadGuard."
+    },
+    {
+      "name": "Protection Without the Panic",
+      "target_emotion": "control",
+      "hook": "One problem. No meltdown.",
+      "concept": "Close-up of a traveller stopping the holdall and calmly checking their phone. The phone lowers; the traveller continues toward the departure gate with composed focus.",
+      "cta": "Travel protected with NomadGuard."
+    }
+  ],
+  "scores": [
+    {
+      "angle_name": "When Plans Shift",
+      "insight_strength": 9,
+      "hook_viability": 9,
+      "message_fidelity": 9,
+      "reason": "It targets the specific anxiety of a sudden travel change and immediately reframes protection as the stable, dependable factor."
+    },
+    {
+      "angle_name": "Built for the Unexpected",
+      "insight_strength": 7,
+      "hook_viability": 7,
+      "message_fidelity": 8,
+      "reason": "The chaos-versus-preparedness insight is credible, but the broad hook and generic visual may feel more like a brand statement than a sharply observed tension."
+    },
+    {
+      "angle_name": "Protection Without the Panic",
+      "insight_strength": 8,
+      "hook_viability": 8,
+      "message_fidelity": 8,
+      "reason": "The calm reaction makes the benefit tangible, though “no meltdown” risks feeling unrealistic and may suggest an absolute level of control."
+    }
+  ],
+  "selected_name": "When Plans Shift",
+  "selection_reason": "“When Plans Shift” wins because it starts from a highly recognizable moment—unexpectedly changing travel plans—and turns coverage into the thing that stays reliable. Its concise, sound-independent headline and clear departure-screen visual can stop attention quickly while directly supporting the core message without overclaiming.",
+  "audience_insight": "Travelers worry that one sudden disruption can unravel their whole trip, but they feel calmer when they know dependable protection is already in place."
+}

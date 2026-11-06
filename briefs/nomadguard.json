@@ -1,0 +1,22 @@
+{
+  "brand": "NomadGuard",
+  "category": "travel protection",
+  "audience": "frequent travellers aged 25-40 who fly for work and for weekends",
+  "problem": [
+    "flight delays",
+    "cancellations",
+    "unexpected financial loss"
+  ],
+  "core_message": "Travel with confidence knowing that you are protected when things go wrong.",
+  "brand_feel": [
+    "modern",
+    "premium",
+    "trustworthy",
+    "confident",
+    "visually polished"
+  ],
+  "duration_s": 12,
+  "aspect_ratio": "9:16",
+  "cta": "Travel protected with NomadGuard.",
+  "visual_notes": "Departure hall at dusk. Cool blue glass against warm amber signage. One traveller, one holdall, no crowds."
+}

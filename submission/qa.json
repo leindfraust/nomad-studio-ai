@@ -1,0 +1,57 @@
+{
+  "technical": {
+    "file": "nomadguard-ad-final.mp4",
+    "size_bytes": 5855576,
+    "duration_s": 13.4,
+    "width": 1080,
+    "height": 1920,
+    "aspect_ratio": "9:16",
+    "codec": "h264",
+    "pixel_format": "yuv420p",
+    "fps": 30.0,
+    "has_audio": true,
+    "decodable": true,
+    "failures": [],
+    "valid": true
+  },
+  "creative": {
+    "model": "MiniMax-M3.1-Flash",
+    "scores": {
+      "realism": 7.0,
+      "visual_consistency": 8.0,
+      "brief_adherence": 7.0,
+      "hook_strength": 6.0,
+      "advertising_quality": 7.0,
+      "storyboard_fidelity": 6.0
+    },
+    "justifications": {
+      "realism": "The airport environment, lighting, reflections, clothing, and luggage generally read as photographic, and no severe facial or hand deformation is visible. However, the unusually stacked luggage, simplified terminal architecture, aggressively blurred background, and heavily teal-orange grade give the footage a synthetic cinematic quality rather than fully natural documentary realism.",
+      "visual_consistency": "The same male traveller, blue-grey shirt, dark trousers, white shoes, and luggage remain consistent throughout, with a stable terminal setting and coherent teal-and-amber grade. Minor changes in body scale, luggage placement, and the traveller's pose are acceptable, though the head turn in the arrow shot appears slightly stiff.",
+      "brief_adherence": "The ad clearly targets a frequent business traveller, presents a changed-gate disruption, and ends by associating NomadGuard with active travel protection. The line 'Your gate changed. Protection shouldn't' communicates the problem and promise without making an excessive coverage claim. However, the brand-protection link is initially reduced to a generic checkmark, and the gate-change problem is largely conveyed by copy rather than a clearly readable gate situation.",
+      "hook_strength": "The airport architecture, silhouette, polished grade, and terse disruption line provide some stopping power, but the opening remains a conventional rear-view airport shot rather than an immediate visual complication. The caption appears late in the sequence, reducing its value as a silent thumb-stopping hook.",
+      "advertising_quality": "The consistent visual treatment, restrained copy, brand reveal, green check symbol, and clean end card could work as a polished social ad. It still feels slightly generic and over-stylized, with the luggage construction and impossible-looking light bloom reducing premium realism, and the narrative ordering makes the reassurance appear before the disruption is fully resolved.",
+      "storyboard_fidelity": "The departure hall, cool blue glass, warm amber panels, traveller, luggage, turn toward signage, illuminated direction arrow, phone, and check symbol are present. The match is weakened because no closed gate is clearly shown, the arrow points right rather than explicitly opposite the traveller's direction, the traveller does not visibly stop beside a gate, the phone check is too dark to read clearly, and the intended timing of problem then relief is disrupted by early branding."
+    },
+    "defects": [
+      "The holdall appears precariously stacked on top of the rolling suitcase rather than carried as the storyboard describes, creating an implausible luggage arrangement.",
+      "The opening frame is a familiar rear-view airport walk and only gains a clear hook once the added caption appears later.",
+      "No closed gate or readable gate information is visible, so the stated travel disruption is conveyed mainly through text.",
+      "The illuminated arrow is a large floating right-pointing graphic with no physical source and is not clearly opposite to the traveller's indicated direction.",
+      "The NomadGuard checkmark branding appears before the tension and phone-relief beats, weakening the intended problem-to-resolution sequence.",
+      "The phone checkmark in the final live-action frame is underexposed and difficult to read behind the end-card treatment.",
+      "The terminal, bokeh, and teal-orange lighting are heavily stylized and mildly synthetic-looking rather than premium photographic realism."
+    ],
+    "frames": [
+      "jobs\\20261106-003651-6e0d54\\artifacts\\qa-frames\\frame-00-0.50s.jpg",
+      "jobs\\20261106-003651-6e0d54\\artifacts\\qa-frames\\frame-01-2.00s.jpg",
+      "jobs\\20261106-003651-6e0d54\\artifacts\\qa-frames\\frame-02-4.50s.jpg",
+      "jobs\\20261106-003651-6e0d54\\artifacts\\qa-frames\\frame-03-6.00s.jpg",
+      "jobs\\20261106-003651-6e0d54\\artifacts\\qa-frames\\frame-04-8.50s.jpg",
+      "jobs\\20261106-003651-6e0d54\\artifacts\\qa-frames\\frame-05-10.00s.jpg",
+      "jobs\\20261106-003651-6e0d54\\artifacts\\qa-frames\\frame-06-12.40s.jpg"
+    ],
+    "passed": true
+  },
+  "passed": true,
+  "reasons": []
+}

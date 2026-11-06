@@ -1,0 +1,68 @@
+{
+  "target_duration_s": 12,
+  "total_duration_s": 12,
+  "aspect_ratio": "9:16",
+  "continuity_block": "A solo traveller aged 25-40 with short dark hair wears a slate-blue overshirt, black trousers and clean white trainers, and carries one navy cylindrical holdall with tan leather trim throughout. Cool blue dusk light mixes with warm amber architectural glow, with polished cinematic color grading and no crowds.",
+  "scenes": [
+    {
+      "index": 0,
+      "start_s": 0.0,
+      "duration_s": 4,
+      "beat": "hook",
+      "description": "The traveller walks confidently through a spacious departure hall at dusk, pulling the holdall toward a gate area framed by cool blue glass and warm amber light panels.",
+      "camera": "Smooth tracking shot moving forward alongside the traveller.",
+      "on_screen_text": "Your gate changed. Protection shouldn't.",
+      "intent": {
+        "subject": "The traveller pulling the navy cylindrical holdall",
+        "action": "Walking steadily toward the gate area",
+        "setting": "Spacious airport departure hall at dusk with cool blue glass walls and abstract amber light panels",
+        "camera": "Smooth forward tracking shot alongside the traveller",
+        "wardrobe": "As specified in the continuity block",
+        "light": "Cool dusk ambience mixed with warm amber architectural glow",
+        "palette": "Cinematic cool blue and warm amber"
+      },
+      "universal_prompt": "The traveller pulling the navy cylindrical holdall Walking steadily toward the gate area. Setting: Spacious airport departure hall at dusk with cool blue glass walls and abstract amber light panels. Camera: Smooth forward tracking shot alongside the traveller. Wardrobe: As specified in the continuity block. Light: Cool dusk ambience mixed with warm amber architectural glow. Palette: Cinematic cool blue and warm amber. Continuity: A solo traveller aged 25-40 with short dark hair wears a slate-blue overshirt, black trousers and clean white trainers, and carries one navy cylindrical holdall with tan leather trim throughout. Cool blue dusk light mixes with warm amber architectural glow, with polished cinematic color grading and no crowds.",
+      "provider_prompt": "The traveller pulling the navy cylindrical holdall, Walking steadily toward the gate area, in Spacious airport departure hall at dusk with cool blue glass walls and abstract amber light panels. Wardrobe: As specified in the continuity block. Lighting: Cool dusk ambience mixed with warm amber architectural glow. Colour palette: Cinematic cool blue and warm amber. Camera: [Smooth forward tracking shot alongside the traveller]. Photorealistic cinematic advertising footage, 35mm lens, natural motion, consistent grade with the previous shot. No visible signage, no lettering, no readable screens, no logos, no on-screen text, no captions."
+    },
+    {
+      "index": 1,
+      "start_s": 4.0,
+      "duration_s": 4,
+      "beat": "tension",
+      "description": "Immediately beside a closed gate, the traveller abruptly stops and looks toward an illuminated floor arrow pointing in the opposite direction, creating a clear visual interruption.",
+      "camera": "Short, controlled push-in that tightens as the traveller stops.",
+      "on_screen_text": null,
+      "intent": {
+        "subject": "The traveller holding the navy cylindrical holdall",
+        "action": "Stopping abruptly and looking toward the redirected arrow",
+        "setting": "Airport gate area with a closed gate and an illuminated arrow pointing away from the traveller",
+        "camera": "Controlled push-in toward the traveller",
+        "wardrobe": "As specified in the continuity block",
+        "light": "Cool blue gate light with a warm amber directional glow",
+        "palette": "Cinematic cool blue and warm amber"
+      },
+      "universal_prompt": "The traveller holding the navy cylindrical holdall Stopping abruptly and looking toward the redirected arrow. Setting: Airport gate area with a closed gate and an illuminated arrow pointing away from the traveller. Camera: Controlled push-in toward the traveller. Wardrobe: As specified in the continuity block. Light: Cool blue gate light with a warm amber directional glow. Palette: Cinematic cool blue and warm amber. Continuity: A solo traveller aged 25-40 with short dark hair wears a slate-blue overshirt, black trousers and clean white trainers, and carries one navy cylindrical holdall with tan leather trim throughout. Cool blue dusk light mixes with warm amber architectural glow, with polished cinematic color grading and no crowds.",
+      "provider_prompt": "The traveller holding the navy cylindrical holdall, Stopping abruptly and looking toward the redirected arrow, in Airport gate area with a closed gate and an illuminated arrow pointing away from the traveller. Wardrobe: As specified in the continuity block. Lighting: Cool blue gate light with a warm amber directional glow. Colour palette: Cinematic cool blue and warm amber. Camera: [Controlled push-in toward the traveller]. Photorealistic cinematic advertising footage, 35mm lens, natural motion, consistent grade with the previous shot. No visible signage, no lettering, no readable screens, no logos, no on-screen text, no captions."
+    },
+    {
+      "index": 2,
+      "start_s": 8.0,
+      "duration_s": 4,
+      "beat": "relief",
+      "description": "The traveller relaxes, raises a smartphone, and presents a clean green check icon on the screen, signaling reassurance and active protection without any written interface.",
+      "camera": "Gentle slow push-in toward the phone screen.",
+      "on_screen_text": "Travel protected with NomadGuard.",
+      "intent": {
+        "subject": "The traveller holding the navy cylindrical holdall",
+        "action": "Raising a smartphone displaying a green check icon",
+        "setting": "Quiet airport gate area at dusk",
+        "camera": "Gentle slow push-in toward the phone",
+        "wardrobe": "As specified in the continuity block",
+        "light": "Soft cool blue ambience with warm amber edge light",
+        "palette": "Cinematic cool blue and warm amber"
+      },
+      "universal_prompt": "The traveller holding the navy cylindrical holdall Raising a smartphone displaying a green check icon. Setting: Quiet airport gate area at dusk. Camera: Gentle slow push-in toward the phone. Wardrobe: As specified in the continuity block. Light: Soft cool blue ambience with warm amber edge light. Palette: Cinematic cool blue and warm amber. Continuity: A solo traveller aged 25-40 with short dark hair wears a slate-blue overshirt, black trousers and clean white trainers, and carries one navy cylindrical holdall with tan leather trim throughout. Cool blue dusk light mixes with warm amber architectural glow, with polished cinematic color grading and no crowds.",
+      "provider_prompt": "The traveller holding the navy cylindrical holdall, Raising a smartphone displaying a green check icon, in Quiet airport gate area at dusk. Wardrobe: As specified in the continuity block. Lighting: Soft cool blue ambience with warm amber edge light. Colour palette: Cinematic cool blue and warm amber. Camera: [Gentle slow push-in toward the phone]. Photorealistic cinematic advertising footage, 35mm lens, natural motion, consistent grade with the previous shot. No visible signage, no lettering, no readable screens, no logos, no on-screen text, no captions."
+    }
+  ]
+}

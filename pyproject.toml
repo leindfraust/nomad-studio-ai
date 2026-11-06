@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "nomadguard-ad-studio"
+version = "0.1.0"
+description = "Brief to social ad: creative strategy, storyboard, video generation and QA behind swappable providers."
+requires-python = ">=3.12"
+dependencies = [
+  "fastapi>=0.115,<1",
+  "uvicorn[standard]>=0.30,<1",
+  "pydantic>=2.7,<3",
+  "httpx>=0.27,<1",
+]
+
+[tool.setuptools]
+packages = [
+  "nomadguard",
+  "nomadguard.providers",
+  "nomadguard.pipeline",
+  "nomadguard.jobs",
+  "nomadguard.web",
+]

@@ -1,0 +1,15 @@
+{
+  "name": "nomadguard-ad-studio",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Brief to social ad: FastAPI backend, React UI, swappable generation providers.",
+  "scripts": {
+    "dev": "python scripts/dev.py",
+    "start": "python -m nomadguard serve --no-reload",
+    "build": "npm --prefix frontend run build",
+    "typecheck": "npm --prefix frontend run typecheck",
+    "test:backend": "python -m unittest discover -s tests -t .",
+    "test:frontend": "npm --prefix frontend test",
+    "test": "npm run test:backend && npm run test:frontend"
+  }
+}
